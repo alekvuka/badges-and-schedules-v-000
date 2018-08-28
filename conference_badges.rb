@@ -32,6 +32,7 @@ def printer(name_array)
   while counter<badges.size
     puts badges[counter]
     puts room_assignemnts[counter]
+    counter=+1
   end
-  
+
 end
